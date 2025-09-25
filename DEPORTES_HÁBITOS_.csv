@@ -1,0 +1,21 @@
+ID,Deporte,Horas_Entrenamiento (semana),Tipo_Dieta,Horas_Descanso (diarias),Hidratación (litros/día),Lesiones (último año)
+1,Fútbol,10,Balanceada,7,2.5,1
+2,Natación,14,Alta en proteínas,8,3,0
+3,Atletismo,12,Vegana,6,2.8,2
+4,Básquetbol,9,Balanceada,7,2.2,1
+5,Ciclismo,15,Alta en carbohidratos,8,3.5,0
+6,Voleibol,8,Balanceada,6,2,1
+7,Boxeo,11,Alta en proteínas,7,2.6,3
+8,Tenis,10,Balanceada,7,2.3,2
+9,Gimnasia,16,Vegana,8,3.2,1
+10,Crossfit,13,Alta en proteínas,6,3,2
+11,Natación,12,Balanceada,8,2.9,0
+12,Atletismo,14,Alta en carbohidratos,7,3.1,1
+13,Fútbol,9,Balanceada,6,2.4,2
+14,Ciclismo,17,Alta en carbohidratos,8,3.6,0
+15,Básquetbol,11,Balanceada,7,2.7,1
+16,Boxeo,12,Alta en proteínas,6,2.8,3
+17,Tenis,10,Balanceada,7,2.5,2
+18,Gimnasia,15,Vegana,8,3.3,1
+19,Crossfit,14,Alta en proteínas,6,3.1,2
+20,Voleibol,8,Balanceada,7,2.1,1
