@@ -1,0 +1,21 @@
+ID,Deporte,Horas_Entrenamiento (semana),Horas_Descanso (diarias),Hidratación (litros/día),Lesiones (último año)
+1,Fútbol,10,7,2.5,1
+2,Natación,14,8,3,0
+3,Atletismo,12,6,2.8,2
+4,Básquetbol,9,7,2.2,1
+5,Ciclismo,15,8,3.5,0
+6,Voleibol,8,6,2,1
+7,Boxeo,11,7,2.6,3
+8,Tenis,10,7,2.3,2
+9,Gimnasia,16,8,3.2,1
+10,Crossfit,13,6,3,2
+11,Natación,12,8,2.9,0
+12,Atletismo,14,7,3.1,1
+13,Fútbol,9,6,2.4,2
+14,Ciclismo,17,8,3.6,0
+15,Básquetbol,11,7,2.7,1
+16,Boxeo,12,6,2.8,3
+17,Tenis,10,7,2.5,2
+18,Gimnasia,15,8,3.3,1
+19,Crossfit,14,6,3.1,2
+20,Voleibol,8,7,2.1,1
